@@ -1,6 +1,6 @@
 # Movie-Search-Engine-ES6
 Movie search engine based JavaScript ES6, JSON, The Movie Database API
-<br>
+<br><br>
 <b>Features</b>:
 <ul>
   <li>Search Movies, TV shows and more..</li>
