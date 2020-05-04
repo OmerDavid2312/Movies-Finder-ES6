@@ -1,5 +1,5 @@
-# Movie-Search-Engine-ES6
-Movie search engine based JavaScript ES6, JSON, The Movie Database API
+# Movies-Finder-ES6
+Movies Finder based JavaScript ES6, JSON, The Movie Database API
 <br><br>
 <b>Features</b>:
 <ul>
